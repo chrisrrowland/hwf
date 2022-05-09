@@ -1,5 +1,23 @@
 [![Banner](assets/HacksWFriends2022-WebBanner1920x450.png)](https://it.umich.edu/community/hacks-with-friends/2022)
 
+<h2>Pitch #0 - Pitch Title</h2>
+
+  Pitch description. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tincidunt urna non arcu molestie, in eleifend magna eleifend. Nunc ullamcorper quam quis eros tristique, nec congue felis euismod. Curabitur lacus nunc, fermentum sit amet nisi eget, aliquet mollis est. Nullam id tempus velit, ac gravida justo. Vestibulum ultrices sapien at ultrices ullamcorper. Proin turpis odio, aliquet sit amet sagittis ac, finibus id elit. Phasellus tincidunt arcu et massa aliquet, id interdum eros congue. Nam commodo pharetra nisl, a fringilla nunc scelerisque ut. Vestibulum a orci facilisis, dignissim lorem ut, rhoncus erat. Donec consectetur quam placerat est imperdiet, vitae gravida orci egestas.
+
+
+
+Vivamus ante lorem, viverra vel mauris quis, laoreet laoreet justo. Cras nec accumsan elit. Mauris eu tortor ac magna dignissim lacinia nec sit amet leo. Sed sodales sapien eu ligula congue, vitae aliquet orci placerat. Aenean quis pretium nisi, at efficitur dui. Morbi sapien lorem, mattis at enim sed, gravida sollicitudin nulla. Morbi maximus eget nisl ac hendrerit. Proin nec odio bibendum, rhoncus neque ut, aliquam urna. Sed ut nisl ut mauris elementum lacinia sit amet at ligula. Aenean urna purus, mollis ac nulla eu, placerat maximus erat. Vivamus accumsan, ligula tincidunt tempor euismod, purus arcu consectetur mauris, eu euismod quam arcu nec magna. Aliquam pellentesque, felis non facilisis condimentum, arcu elit facilisis nulla, eu sodales risus nulla in lorem. Phasellus pulvinar facilisis sem, nec euismod lorem accumsan a. Nulla ut turpis in ante porta pellentesque non et metus. Nulla in rhoncus lorem. Sed in condimentum diam, sed lobortis libero.
+
+<h3>Pitch Leader:</h3>
+
+[R. Leader](mailto:noreply@umich.edu)
+
+<h3>Team Members</h3>
+
+- [A. Member](mailto:noreply@umich.edu)
+- Person Two
+- Person Three
+
 <h2 align="center">Schedule</h2>
 
 **HWF Day 1: Thursday, June 2**
