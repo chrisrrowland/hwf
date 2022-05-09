@@ -32,8 +32,16 @@
 
 [Pitches](https://it.umich.edu/community/hacks-with-friends/2022/submitted-pitches)
 
-[Participants](https://um-its-mi-it.slack.com/archives/C037ACCMW9H)
+<img src="assets/slack.png" width=14> [Participants](https://um-its-mi-it.slack.com/archives/C037ACCMW9H)
 
-[General Info](https://um-its-mi-it.slack.com/archives/C03DN2X79GD)
+<img src="assets/slack.png" width=14> [General Info](https://um-its-mi-it.slack.com/archives/C03DN2X79GD)
 
-[Genius Bar](https://um-its-mi-it.slack.com/archives/C03DR004YP5)
+<img src="assets/slack.png" width=14> [Genius Bar](https://um-its-mi-it.slack.com/archives/C03DR004YP5)
+
+
+
+</br>
+
+**Questions and More Information**
+
+Send questions, ideas, and feedback to: hackswithfriends@umich.edu
