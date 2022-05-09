@@ -25,6 +25,8 @@ Vivamus ante lorem, viverra vel mauris quis, laoreet laoreet justo. Cras nec acc
 
 **Team Zoom:** <img src="assets/zoom.png" width=14> [Join Zoom](https://umich.zoom.us/REPLACEME)
 
+**Submitted Documentation**: [HWF Doc Uploads](https://drive.google.com/drive/u/1/folders/1nDjusvk4i0I7dxRi2zkOsiNZlwhBg8T-)
+
 <h2 align="center">Schedule</h2>
 
 **HWF Day 1: Thursday, June 2**
