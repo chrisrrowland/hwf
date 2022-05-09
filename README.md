@@ -18,6 +18,13 @@ Vivamus ante lorem, viverra vel mauris quis, laoreet laoreet justo. Cras nec acc
 - Person Two
 - Person Three
 
+
+**Room Assignment:** Bldg 4 Room 6789
+
+**Team Slack:** <img src="assets/slack.png" width=14> [Team #0](https://um-its-mi-it.slack.com/archives/REPLACEME)
+
+**Team Zoom:** <img src="assets/zoom.png" width=14> [Join Zoom](https://umich.zoom.us/REPLACEME)
+
 <h2 align="center">Schedule</h2>
 
 **HWF Day 1: Thursday, June 2**
