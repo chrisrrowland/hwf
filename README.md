@@ -59,6 +59,8 @@ Vivamus ante lorem, viverra vel mauris quis, laoreet laoreet justo. Cras nec acc
 
 [Pitches](https://it.umich.edu/community/hacks-with-friends/2022/submitted-pitches)
 
+[Arbor Lakes Map](https://its.umich.edu/wifi-coverage-map/maps.php?loc=arborlakes)
+
 <img src="assets/slack.png" width=14> [Participants](https://um-its-mi-it.slack.com/archives/C037ACCMW9H)
 
 <img src="assets/slack.png" width=14> [General Info](https://um-its-mi-it.slack.com/archives/C03DN2X79GD)
