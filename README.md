@@ -19,9 +19,9 @@ Vivamus ante lorem, viverra vel mauris quis, laoreet laoreet justo. Cras nec acc
 - Person Three
 
 
-**Room Assignment:** Bldg 4 Room 6789
+**Room Assignment:** TBD
 
-**Team Slack:** <img src="assets/slack.png" width=14> [Team #0](https://um-its-mi-it.slack.com/archives/REPLACEME)
+**Team Slack:** <img src="assets/slack.png" width=14> [TBD](https://um-its-mi-it.slack.com/archives/REPLACEME)
 
 **Team Zoom:** <img src="assets/zoom.png" width=14> [Join Zoom](https://umich.zoom.us/REPLACEME)
 
